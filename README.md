@@ -1,3 +1,5 @@
+Hello, my name is Ana Ortiz
+Full stack programming student
 - 🔭 I am currently working on independent frontend development projects on web pages.
 - 🌱 I am currently starting my technical degree in programming at the National Technological University and studying javascript via Coderhouse.
 - 👯 I'm looking for my first job as a web developer.
